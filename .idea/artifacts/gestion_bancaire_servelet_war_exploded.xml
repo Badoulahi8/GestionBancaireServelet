@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="gestion_bancaire_servelet:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/gestion_bancaire_servelet_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="gestion_bancaire_servelet/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="gestion_bancaire_servelet" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
